@@ -16,6 +16,12 @@ Every day for a week, I tried to keep my eyes peeled bullshit I produced or was 
 <br>
 <br>
 <img src="./sunburstgraph.svg">
+<br>
+<br>
+
+
+[Source Here](https://docs.google.com/spreadsheets/d/1FWWg4eB-9I2VMdAYdes1p2epRV2t_CkKXi0wko3H6dE/edit?usp=sharing)
+
 
 ### Observations
 
