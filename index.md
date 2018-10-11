@@ -16,9 +16,9 @@ Every day for a week, I tried to keep my eyes peeled bullshit I produced or was 
 
 ### Observations
 
-1. My original prediction that my roommate would have the smallest amount of bullshit emitted was correct. After all, I had a definite conclusion before starting that project that I emitted tons more bullshit than him on daily basis. Mostly due to the fact that I often speak before actually thinking through what I'm going to say (laugh). 
+1. My original prediction that my roommate would have the smallest amount of bullshit emitted was correct. After all, I had a definite conclusion before starting that project that I emitted tons more bullshit than him on daily basis. Mostly due to the fact that I often speak before actually thinking through what I'm going to say. 
 
-2. Bullshit I found online and not from a specific news source often was the most controversial and most common misinformation that I encountered. Viral posts on Facebook or Twitter were prevalent all over my "feeds". Creators of these contents purposely made emotionally convincing posts (from "real life experiences", "citing scientists") that seemed credible and factual, but ultimately they were either false or true but warped in a way to make it seem like new information.
+2. Bullshit I found online and not from a specific news source often was the most controversial and most common misinformation that I encountered. Viral posts on Facebook or Twitter were prevalent all over my "feeds". These BS creators purposely made emotionally convincing posts (from _"real life experiences"_, or by _"citing scientists"_) that seemed credible and factual, but ultimately they were either false or true but warped in a way to make it seem like new information.
 
 
 
