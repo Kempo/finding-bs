@@ -20,5 +20,11 @@ Every day for a week, I tried to keep my eyes peeled bullshit I produced or was 
 
 2. Bullshit I found online and not from a specific news source often was the most controversial and most common misinformation that I encountered. Viral posts on Facebook or Twitter were prevalent all over my "feeds". These BS creators purposely made emotionally convincing posts (from _"real life experiences"_, or by _"citing scientists"_) that seemed credible and factual, but ultimately they were either false or true but warped in a way to make it seem like new information.
 
+### Bullshit Award
 
+<img src="./flooding.png">
+
+- Thousands of Facebook users have liked and commented while tens of thousands have shared this photo depicting an airport in Florida flooding due to Hurricane Michael. What the majority of these Facebook users realize is that this picture was actually a digitally edited photo by artist Nikolay Lamm posted on [Climate Central](http://www.climatecentral.org/news/coastal-us-airports-face-increasing-threat-from-sea-level-rise-16126) in 2013 with the caption:
+
+> What LaGuardia [New York] could look like at high tide with 25 feet of sea level rise, an amount that would require a worst-case scenario involving melting of large parts of Greenland and Antarctica
 
