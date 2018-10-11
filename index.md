@@ -1,9 +1,12 @@
 ## What is bullshit?
-_**Bullshit, in my project definition, is language, statistical figures, data graphics, and other forms of presentation intended to persuade by impressing and overwhelming a reader or listener, with a blatant disregard for truth and logical coherence**._
+
+**_For this project, I defined Bullshit as any form of presentation or statement, intended to persuade and convert the audience into believers to spread illogical ideas or misinformation into the world._**
+
+It can come in many forms, whether it's an advertisement on the local newspaper talking about mens health, or a 200 character tweet on Twitter about climate change, or your roommate bullshitting you about what is the "proper" rhythm to a song.
 
 ### How did I gather this data?
 
-Every day for a week, I tried to keep my eyes peeled bullshit I produced or was exposed. Once observed, I'd quickly go on my phone for a quick minute and type my observations on a Google Sheets document. My goal was to be bullshit neutral in my day-to-day life: producing just as much bullshit that I encountered. According to this data set, I seemingly produced less bullshit than other sources (online or in the news), but I think there's always room for improvement.
+Every day for a week, I tried to keep my eyes peeled bullshit I produced or was exposed. Once observed, I'd quickly go on my phone for a quick minute and type my observations on a Google Sheets document. My goal was to be bullshit neutral in my day-to-day life: producing just as much bullshit that I encountered. According to this data set, I seemingly produced less bullshit than other sources (online or in the news), but I think there's always room for improvement. There were many more data points I may have not utilized, simply being that I tried to be as picky to bullshit as I could. Minor mistakes by someone or some press were not counted. A viral Facebook post claiming an entire airport was submerged in water during Hurricane Michael, when in reality, the photos were 5 year old theoretical images posted in a Climate Change forum absolutely do count.
 
 
 ### Visualizations
@@ -28,3 +31,4 @@ Every day for a week, I tried to keep my eyes peeled bullshit I produced or was 
 
 > What LaGuardia [New York] could look like at high tide with 25 feet of sea level rise, an amount that would require a worst-case scenario involving melting of large parts of Greenland and Antarctica
 
+This bullshit was debunked by [Spokes.](https://www.snopes.com/fact-check/florida-airport-flooded-michael/)
