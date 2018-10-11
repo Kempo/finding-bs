@@ -5,5 +5,10 @@ _**Bullshit, in my project definition, is language, statistical figures, data gr
 
 Every day for a week, I tried to keep my eyes peeled bullshit I produced or was exposed to. My goal was to be bullshit neutral in my day-to-day life. But, sadly, as you can see below, I was mass producer of bullshit.
 
+### Visualizations
 
-[Link](url) and ![Image](src)
+<img src="./circlegraph.svg">
+<br>
+<br>
+<br>
+<img src="./sunburstgraph.svg">
